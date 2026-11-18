@@ -1,0 +1,9 @@
+{
+  "name": "shopkart-full-stack",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "npm --prefix backend run dev"
+  }
+}

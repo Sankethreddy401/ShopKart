@@ -1,0 +1,1 @@
+import{Router}from'express';const r=Router();const products=[];r.get('/',(req,res)=>res.json(products));export default r;
